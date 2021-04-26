@@ -1,0 +1,10 @@
+C:\Users\ilesb\source\repos\Dns resolver\Dns resolver\bin\Debug\Dns resolver.exe.config
+C:\Users\ilesb\source\repos\Dns resolver\Dns resolver\bin\Debug\Dns resolver.exe
+C:\Users\ilesb\source\repos\Dns resolver\Dns resolver\bin\Debug\Dns resolver.pdb
+C:\Users\ilesb\source\repos\Dns resolver\Dns resolver\obj\Debug\Dns resolver.csprojAssemblyReference.cache
+C:\Users\ilesb\source\repos\Dns resolver\Dns resolver\obj\Debug\Dns_resolver.Form1.resources
+C:\Users\ilesb\source\repos\Dns resolver\Dns resolver\obj\Debug\Dns_resolver.Properties.Resources.resources
+C:\Users\ilesb\source\repos\Dns resolver\Dns resolver\obj\Debug\Dns resolver.csproj.GenerateResource.cache
+C:\Users\ilesb\source\repos\Dns resolver\Dns resolver\obj\Debug\Dns resolver.csproj.CoreCompileInputs.cache
+C:\Users\ilesb\source\repos\Dns resolver\Dns resolver\obj\Debug\Dns resolver.exe
+C:\Users\ilesb\source\repos\Dns resolver\Dns resolver\obj\Debug\Dns resolver.pdb
